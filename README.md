@@ -1,5 +1,6 @@
 # Microsoft Graph SDK for Ruby
 
+
 If you're using a version lower than 0.10.0 of this gem, please read this [post](https://github.com/microsoftgraph/msgraph-sdk-ruby/issues/69) for more information.
 
 Get started with the Microsoft Graph SDK for Ruby by integrating the [Microsoft Graph API](https://learn.microsoft.com/graph/overview) into your Ruby application!
@@ -7,6 +8,10 @@ Get started with the Microsoft Graph SDK for Ruby by integrating the [Microsoft 
 > **Note:** this SDK allows you to build applications using the [v1.0](https://learn.microsoft.com/graph/use-the-api#version) of Microsoft Graph. If you want to try the latest Microsoft Graph APIs under beta, use our [beta SDK](https://github.com/microsoftgraph/msgraph-beta-sdk-ruby) instead.
 >
 > **Note:** the Microsoft Graph Ruby SDK is currently in Community Preview. During this period we're expecting breaking changes to happen to the SDK based on community's feedback. Checkout the [known limitations](https://github.com/microsoftgraph/msgraph-sdk-ruby-core/issues/1).
+
+## 0. Deprecation
+
+The deprecation of the Microsoft Graph Ruby SDK is effective July 2025. Read the [annoucement](https://github.com/microsoftgraph/msgraph-sdk-ruby/issues/287).
 
 ## 1. Installation
 
